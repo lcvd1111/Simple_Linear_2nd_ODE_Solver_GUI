@@ -7,4 +7,4 @@ It is a 2nd constant coefficient linear ODE solver with simple GUI using euler's
 matplotlib <a href="https://matplotlib.org/">#</a>
 
 <h2>Demonstration</h2>
-<img src="./ODE_solver.gif" />
+<img src="./ODE_solver.gif" width=300 height=200/>
