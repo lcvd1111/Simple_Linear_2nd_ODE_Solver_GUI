@@ -4,7 +4,7 @@
 It is a 2nd constant coefficient linear ODE solver with simple GUI using euler's method.
 
 <h2>Needed modules</h2>
-matplotlib
+matplotlib <a href="https://matplotlib.org/">#</a>
 
 <h2>Demonstration</h2>
 <img src="./ODE_solver.gif" />
